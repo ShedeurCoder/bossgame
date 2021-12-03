@@ -1,0 +1,30 @@
+#playNow, #creditsButton {
+    margin:0;
+    font-size: 30px;
+}
+#Welcomescreen {
+    text-align: center;
+}
+#hp {
+    display: inline-block;
+}
+#game, #credits {
+    display: none;
+    margin: 0 auto;
+}
+#playerwins, #bossdead, #creditsButton, #fiveDimen {
+    display: none;
+}
+#credit {
+    font-size: 30px;
+}
+#social {
+    font-size: 20px;
+}
+#credits {
+    text-align: center;
+}
+footer {
+    position: absolute;
+    bottom: 0;
+}
