@@ -1,0 +1,51 @@
+#playNow, #creditsButton {
+    margin:0;
+    font-size: 30px;
+}
+#Welcomescreen {
+    text-align: center;
+    margin-bottom: 30%;
+}
+#hp {
+    display: inline-block;
+}
+#game, #credits {
+    display: none;
+    margin: 0 auto;
+    margin-bottom: 30%;
+}
+#creditsButton {
+    margin: 0 auto;
+}
+#fiveDimen {
+    display: block;
+    font-size: 2em;
+    margin: 0 auto;
+}
+#playerwins, #bossdead, #creditsButton, #fiveDimen, #losepng {
+    display: none;
+}
+#credit {
+    font-size: 30px;
+}
+#social {
+    font-size: 20px;
+}
+#credits {
+    text-align: center;
+}
+div.buttondiv button {
+    display: block;
+    background-color: rgba(238, 77, 77, 0.8);
+    font-size: 2em;
+    margin: 0 auto;
+}
+section.gamesection div {
+    text-align: center;
+}
+.gamesection {
+    display: none;
+}
+#losepng {
+    width: 100vw;
+}
